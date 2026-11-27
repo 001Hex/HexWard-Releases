@@ -1,0 +1,23 @@
+HexWard — End User License Agreement
+
+Copyright (c) 2026 Hex Modifications. All rights reserved.
+
+HexWard is licensed, not sold. Hex Modifications grants you a free, personal,
+non-exclusive, non-transferable license to install and use HexWard on computers you
+own or control.
+
+You may not: (a) copy or redistribute HexWard except by sharing a link to the
+official download page; (b) modify, decompile, disassemble, or reverse engineer
+HexWard, except where applicable law forbids this restriction; (c) remove
+copyright notices; (d) sell, rent, or sublicense HexWard.
+
+HexWard is provided "AS IS", without warranty of any kind. HexWard reports
+items that can start automatically on your computer and gives an automated opinion
+of how risky they look. It is not antivirus software, cannot detect every
+threat, and may flag legitimate software. Its risk levels are for information
+only; Hex Modifications is not liable for any damage, data loss, security
+incident, or other issue arising from use of, or reliance on, HexWard.
+
+HexWard does not transmit any data and does not connect to the internet. It
+stores a list of the startup items it has seen, and your review decisions,
+only on your computer (Mac: ~/Library/Application Support/HexWard; Windows: %LOCALAPPDATA%\HexWard).
