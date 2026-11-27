@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner-hero.png" alt="HexWard – know what starts with your computer, the moment something new does" width="100%">
+  <img src="assets/banner-hero.png" alt="HexWard – know what starts with your computer, the moment something new does" width="100%">
 </p>
 
 <h3 align="center">A free, quiet app for Mac and Windows that tells you the moment something new starts running automatically, and whether it looks risky.</h3>
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/001Hex/HexWard-Releases/releases"><b>⬇ Download</b></a> ·
-  <a href="https://001hex.github.io/HexWard-Releases/">Website</a> ·
+  <a href="https://hex-modifications.github.io/hexward/">Website</a> ·
   <a href="#install">Install</a> ·
   <a href="#faq">FAQ</a> ·
   <a href="https://github.com/001Hex/HexWard-Releases/issues">Support</a>
@@ -29,11 +29,11 @@
 
 | | |
 |---|---|
-| <img src="docs/assets/feature-alerts.png" width="420" alt="An alert card appearing under the menu bar icon for a new startup item"> | **Alerts the moment it appears.** When something new sets itself up to run automatically, a small card appears within seconds with a plain-English verdict. "It's mine, mark OK" and it never asks again. |
-| <img src="docs/assets/feature-panel.png" width="420" alt="The HexWard panel listing items to review and everything watched"> | **All in one panel.** Click the shield for everything that can start without asking, sorted by risk. See what each item runs, who signed it and where it lives. |
-| <img src="docs/assets/feature-explain.png" width="420" alt="Risk levels from Clear to Critical with an example explained item"> | **Risk, in plain English.** Five levels from Clear to Critical. Every flag is one fact you can check, such as "unsigned program" or "runs from a temporary folder", not a mystery score. |
-| <img src="docs/assets/feature-private.png" width="420" alt="Read-only, no network use, no admin needed"> | **Private by design.** Read-only: it never edits, disables or deletes anything. No network connections, no telemetry, no accounts, no admin password. |
-| <img src="docs/assets/feature-platforms.png" width="420" alt="HexWard in the macOS menu bar and the Windows system tray"> | **Native on Mac and Windows.** It lives in the Mac menu bar and the Windows system tray, with the same look and the same rules on both. |
+| <img src="assets/feature-alerts.png" width="420" alt="An alert card appearing under the menu bar icon for a new startup item"> | **Alerts the moment it appears.** When something new sets itself up to run automatically, a small card appears within seconds with a plain-English verdict. "It's mine, mark OK" and it never asks again. |
+| <img src="assets/feature-panel.png" width="420" alt="The HexWard panel listing items to review and everything watched"> | **All in one panel.** Click the shield for everything that can start without asking, sorted by risk. See what each item runs, who signed it and where it lives. |
+| <img src="assets/feature-explain.png" width="420" alt="Risk levels from Clear to Critical with an example explained item"> | **Risk, in plain English.** Five levels from Clear to Critical. Every flag is one fact you can check, such as "unsigned program" or "runs from a temporary folder", not a mystery score. |
+| <img src="assets/feature-private.png" width="420" alt="Read-only, no network use, no admin needed"> | **Private by design.** Read-only: it never edits, disables or deletes anything. No network connections, no telemetry, no accounts, no admin password. |
+| <img src="assets/feature-platforms.png" width="420" alt="HexWard in the macOS menu bar and the Windows system tray"> | **Native on Mac and Windows.** It lives in the Mac menu bar and the Windows system tray, with the same look and the same rules on both. |
 
 ### What it watches
 

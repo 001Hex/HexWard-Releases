@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://001hex.github.io/HexWard-Releases/sitemap.xml
